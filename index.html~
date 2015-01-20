@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>play around with jQuery</title>
+<link rel="stylesheet" type="text/css" href="CSS/myStyle.css">
+</head>
+<body>
+<div class="myDiv"></div>
+<button class="myButton">asdf</button>
+
+<script type="text/javascript" src="JS/jQuery.js"></script>
+<script type="text/javascript" src="JS/myJ.js"></script>
+
+</script>
+</body>
+</html>
